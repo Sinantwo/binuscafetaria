@@ -21,7 +21,7 @@ export const sellers = [
     "rating": 4.5,
     "sold": "257 Terjual",
     "description": "Aneka bento dan paket nasi",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCKGDmrzXkC1f1rQBpRS9FcqDxus2xXnDVCw&s"
+    "image": "https://rumahtumpengjakarta.com/wp-content/uploads/2025/06/Nasi-Box-Bekasi-Selatan.jpg"
   },
   {
     "id": "koftelogi",
@@ -88,28 +88,28 @@ export const menus = [
     "sellerId": "rasela",
     "name": "Nasi Gudeg",
     "price": 42000,
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7mKVNGZscd5I0sRj8DKIvkc_RDNslRhuTmw&s"
+    "image": "https://img-global.cpcdn.com/recipes/669263d4890791a9/680x781cq80/nasi-gudeg-komplit-ala-jogja-foto-resep-utama.jpg"
   },
   {
     "id": "rasela-2",
     "sellerId": "rasela",
     "name": "Nasi Briyani",
     "price": 41000,
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7mKVNGZscd5I0sRj8DKIvkc_RDNslRhuTmw&s"
+    "image": "https://awsimages.detik.net.id/community/media/visual/2021/07/17/resep-nasi-biryani-ayam_43.jpeg?w=1200"
   },
   {
     "id": "rasela-3",
     "sellerId": "rasela",
     "name": "Nasi Teriyaki",
     "price": 37000,
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVx7qpZOIG1MWjeodcWy_Qv5cJxsSP-cE7Xw&s"
+    "image": "https://i0.wp.com/ptbamboe.com/wp-content/uploads/Chicken-Pok-Pok-Teriyaki.png?fit=1366%2C768&ssl=1"
   },
   {
     "id": "rasela-4",
     "sellerId": "rasela",
     "name": "Nasi Mongolia",
     "price": 32000,
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTghbjj7E6CF6C8xgw8Yg6_vrpwCkJnfF8iMg&s"
+    "image": "https://www.foodiewithfamily.com/wp-content/uploads/2025/08/mongolian-ground-beef-1-450x450.jpg"
   },
   {
     "id": "koffie-1",
