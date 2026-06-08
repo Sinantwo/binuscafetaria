@@ -24,7 +24,7 @@ export default function DonePage({ doneOrder, openOrders }) {
 
           <div className="check-illustration">
             <img
-              src="https://img.magnific.com/free-vector/green-double-circle-check-mark_78370-1749.jpg?semt=ais_hybrid&w=740&q=80"
+              src="/checkmark.jpg"
               alt="Order selesai"
               className="done-check-img"
             />
