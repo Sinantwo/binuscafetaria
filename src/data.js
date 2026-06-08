@@ -21,7 +21,7 @@ export const sellers = [
     "rating": 4.5,
     "sold": "257 Terjual",
     "description": "Aneka bento dan paket nasi",
-    "image": "https://img.foodspot.co.id/restaurant//rasela/logo-baru.jpg"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCKGDmrzXkC1f1rQBpRS9FcqDxus2xXnDVCw&s"
   },
   {
     "id": "koftelogi",
@@ -88,28 +88,28 @@ export const menus = [
     "sellerId": "rasela",
     "name": "Nasi Gudeg",
     "price": 42000,
-    "image": "https://img.foodspot.co.id/restaurant//rasela/aug19/pkt-nasi-gudeg.jpg"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7mKVNGZscd5I0sRj8DKIvkc_RDNslRhuTmw&s"
   },
   {
     "id": "rasela-2",
     "sellerId": "rasela",
     "name": "Nasi Briyani",
-    "price": 410000,
-    "image": "https://img.foodspot.co.id/restaurant//rasela/april20/briyani-ayam.jpg"
+    "price": 41000,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7mKVNGZscd5I0sRj8DKIvkc_RDNslRhuTmw&s"
   },
   {
     "id": "rasela-3",
     "sellerId": "rasela",
     "name": "Nasi Teriyaki",
     "price": 37000,
-    "image": "https://img.foodspot.co.id/restaurant//rasela/april20/daging-teriyaki.jpg"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVx7qpZOIG1MWjeodcWy_Qv5cJxsSP-cE7Xw&s"
   },
   {
     "id": "rasela-4",
     "sellerId": "rasela",
     "name": "Nasi Mongolia",
     "price": 32000,
-    "image": "https://img.foodspot.co.id/restaurant//rasela/april20/daging-mongolia.jpg"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTghbjj7E6CF6C8xgw8Yg6_vrpwCkJnfF8iMg&s"
   },
   {
     "id": "koffie-1",
